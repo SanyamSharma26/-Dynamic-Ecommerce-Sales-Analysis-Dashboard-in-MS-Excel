@@ -23,6 +23,7 @@ Interactive Excel dashboard for e-commerce sales analysis—slicers, combo/pie/m
   `▲ 0.0%;[Red]▼ 0.0%;0.0%`
 
 ## 📷 Screenshots
+![E-Commerce Dashboard](dashboard.png)
 
 
 
