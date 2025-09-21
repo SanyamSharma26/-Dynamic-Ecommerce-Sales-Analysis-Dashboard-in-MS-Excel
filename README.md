@@ -18,7 +18,7 @@ Interactive Excel dashboard for e-commerce sales analysis—slicers, combo/pie/m
 
 ## 🧮 Useful Excel Bits
 - **Custom currency (K) format**  
-  `"$" #,##0.00,;[Red]"$" #,##0.00,`  
+  [Green] ▲ 0.00%;[Red]▼ 0.00%, $ 0.00,"k", "#" 0 
 - **Percent with arrows (optional via conditional formatting or custom number):**  
   `▲ 0.0%;[Red]▼ 0.0%;0.0%`
 
