@@ -25,13 +25,5 @@ Interactive Excel dashboard for e-commerce sales analysis—slicers, combo/pie/m
 ## 📷 Screenshots
 See `/assets/screenshots/` (add your images after first commit).
 
-## 📝 Resume-style Summary
-- Built interactive dashboards for sales, profit, and category trends using slicers and pivot charts.  
-- Structured raw data into dynamic Excel Tables for automated updates.  
-- Created combo, pie, waterfall, and map visuals to surface insights.  
-- Enhanced usability with KPIs, conditional formatting, and cleaned number formats.
-
-## 🏷️ Tags
-`excel` `dashboard` `data-analysis` `business-intelligence` `ecommerce` `pivot-table` `charts` `kpi`
 
 
