@@ -34,8 +34,4 @@ See `/assets/screenshots/` (add your images after first commit).
 ## 🏷️ Tags
 `excel` `dashboard` `data-analysis` `business-intelligence` `ecommerce` `pivot-table` `charts` `kpi`
 
-## 📄 License
-MIT (see `LICENSE`).
-
----
 
